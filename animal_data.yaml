@@ -1,0 +1,27 @@
+path: C:\Users\Lutifah\Desktop\INTERSHIP\Animal_Detection_YOLOV8-main\dataset
+train: images\train
+val: images\val
+test: images\test
+
+names:
+  0: Dog
+  1: Cat
+  2: Zebra
+  3: Lion
+  4: Leopard
+  5: Cheetah
+  6: Tiger
+  7: Bear
+  8: Brown Bear
+  9: Butterfly
+  10: Canary
+  11: Crocodile
+  12: Polar Bear
+  13: Bull
+  14: Camel
+  15: Crab
+  16: Chicken
+  17: Centipede
+  18: Cattle
+  19: Caterpillar
+  20: Duck
