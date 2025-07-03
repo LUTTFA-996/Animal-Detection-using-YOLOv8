@@ -38,5 +38,5 @@ Animal_Detection_YOLOV8-main/
 │       ├── val/            
 │       └── test/          
 ├── animal_data.yaml
-| animal_detection_app.py             
+| detect.py             
 ├── train_yolo.py   
